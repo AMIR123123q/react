@@ -1,0 +1,37 @@
+header{background-image:url(../img/OF18OA0.jpg);
+background-attachment:fixed; background-position:center;
+background-size: cover;background-repeat: no-repeat;background-attachment: scroll;
+height:400px; }
+header div#container{background-color: rgba(149, 142, 142,0.4);;}
+header div ul{display: flex; justify-content: center; list-style: none; border:rgba(48, 46, 46, 0.608) solid 2px  }
+header div ul a {text-decoration: none;color: rgba(0, 0, 0,0.8);margin: 20px; border-left: 4px solid rgb(107, 98, 98);border-radius: 4px; padding: 15px;}
+header div ul a:nth-child(4){border: none;}
+body{direction: rtl; background-color: aliceblue;} 
+#div2{text-align: center;}
+h2{font-size: 50px;}
+.tala{font-size: 0.618 ; border-bottom: 3.618px solid rgb(220, 230, 225); padding: 1.618px;margin: 1.618em; }
+span{color:rgb(50, 158, 11)}
+div.vasat{display: flex ;}
+div.vasat div{ margin: 10px;padding: 3px;justify-content: space-between;width: 100%; background-color: bisque;}
+#d1{ background-position: center; background-repeat:no-repeat;
+}
+div.vasat{width:calc(40%-80px) ;background-color: rgb(117, 173, 182); }
+.div1 a{text-decoration: none;}
+#img{display: flex; justify-content: space-between;}
+#img1{width: 220px; height: 50px; justify-content: center;}
+#img2{width:220px ;height:50px; }
+#img3{width:220px ;height:50px;justify-content: center; }
+#img4{width:220px ;height:50px;}
+div a {text-align: center;font-size: 15px;}
+.div1{text-align: center;}
+.div1 a{border:solid 1.618px rgb(29, 88, 130) ; background-color: rgba(3, 150, 28, 0.692);color: beige; 
+transition: 0.618s }
+.vasat h2{font-size: 18.618px; color: rgb(35, 35, 40);}
+.div1 a:hover{background-color: rgb(2, 134, 1);}
+#image1{width: 300px;height: 159px;}
+#image2{width: 300px;height: 159px;}
+#image3{width: 300px;height: 159px;}
+#image4{width:300px; height: 159px;}
+#ser{display: flex; justify-content: space-between; background-color: rgb(116, 94, 94); margin-top: 30px;}
+
+
